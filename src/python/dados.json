@@ -47,7 +47,7 @@
     {
         "id": 4,
         "title": "Monitoramento de Campo",
-        "categori": "IoT & Drones",
+        "category": "IoT & Drones",
         "image": "./src/assets/campo.jpg",
         "description": "Topografia de terreno, umidade do solo e varredura de bacia hidrográfica por drone agrícola.",
         "tempo_sugerido_ia": 20.0,
